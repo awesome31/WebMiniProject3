@@ -9,7 +9,7 @@ const getPhotos = (term) => {
       query: term,
     },
     headers: {
-      Authorization: 'Client-ID z8JYCAF-SWLxm3-3IUAlzIP1UuxSeGLJW2cvQZEH84c',
+      Authorization: 'Client-ID',
     },
   });
 };
